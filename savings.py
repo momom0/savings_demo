@@ -18,7 +18,5 @@ def savings_counter():
     return amount
 
 
+amount = savings_counter()
 print("Savings at retirement", round(amount, 2))
-    
-
-
